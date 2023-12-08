@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS gameOn_db;
+CREATE DATABASE gameOn_db;
+
+USE gameOn_db;
